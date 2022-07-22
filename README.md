@@ -16,12 +16,12 @@
    
 ### About Dataset:
    - The team provided you with an extensive data, here's a sample of the dataset: 
-   -- JobInvolvement
-   -- Education
-   -- JobSatisfaction
-   -- PerformanceRating
-   -- RelationshipSatisfaction
-   -- WorkLifeBalance
+      - JobInvolvement
+      - Education
+      - JobSatisfaction
+      - PerformanceRating
+      - RelationshipSatisfaction
+      - WorkLifeBalance
 
 ### Algorithms:
   **Logistic Regression**
